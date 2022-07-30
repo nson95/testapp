@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "firstName": "Phil",
+    "lastName": "Loeffler",
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "firstName": "Nick",
+    "lastName": "Sonnenberg",
+    "rating": 5.0
+  }
+]

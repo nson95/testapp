@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Learn the Basics",
+    "route": "LearnTheBasics"
+  },
+  {
+    "id": 2,
+    "title": "Talk to a Consultant",
+    "route": "Login"
+  },
+  {
+    "id": 3,
+    "title": "Start a Campaign",
+    "route": "Login"
+  },
+  {
+    "id": 4,
+    "title": "Increase Annual Giving",
+    "route": "Login"
+  },
+  {
+    "id": 5,
+    "title": "Engage Volunteers",
+    "route": "Login"
+  },
+  {
+    "id": 6,
+    "title": "Launch a Study",
+    "route": "Login"
+  }
+]
